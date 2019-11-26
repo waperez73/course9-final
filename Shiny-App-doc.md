@@ -27,7 +27,7 @@ The application is very simple to use but here is a list of the libraries used t
 How to use
 ========================================================
 
-You can run the application by downloading the code from git @() or simply go to this URL. 
+You can run the application by cloning the project code from git [here](https://github.com/waperez73/course9-final/tree/gh-pages) or simply go to this [URL](https://course9.shinyapps.io/course9-final/). 
 
 - You can slide the MPG slider left or right to increase or decrease the MPG you would like to use to predict the horse power and disply the models the fall within the MPG for city and highway.
 - The check boxes allow to select or deselect the model you would like to see the results for.
