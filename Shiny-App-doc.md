@@ -1,0 +1,38 @@
+Course9 Project - Shiny application with documentation
+========================================================
+author: Wellintton Perez
+date: 11/24/2019
+autosize: true
+
+Application
+========================================================
+
+The application I built utilizes the mpg (from ggplot2) and mtcars datasets to determined the horse power from MPG and also display the top 3 vehicle models from the mpg dataset.
+
+
+
+Application presequisites
+========================================================
+
+The application is very simple to use but here is a list of the libraries used to built it.
+
+- OS - Windows 10 x64
+- RStudio Version 1.2.5001
+- R Version 3.6.1
+- shiny 1.4.0
+- dplyr 0.8.3
+- ggplot2 3.2.1
+
+
+How to use
+========================================================
+
+You can run the application by downloading the code from git @() or simply go to this URL. 
+
+- You can slide the MPG slider left or right to increase or decrease the MPG you would like to use to predict the horse power and disply the models the fall within the MPG for city and highway.
+- The check boxes allow to select or deselect the model you would like to see the results for.
+- You can also supply a number in the "Top Models" text box to see the top models for the MPG.  The max number is 10, but you can get the code and change it if you like.
+
+Application screen
+========================================================
+![plot of chunk unnamed-chunk-1](./app-sample.png)
